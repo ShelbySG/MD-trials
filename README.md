@@ -28,4 +28,4 @@ More Stuff
 
 some math $f(x)=x^2$ in line
 
-go to [apple](www.apple.com)
+go to [apple](https://www.apple.com)
